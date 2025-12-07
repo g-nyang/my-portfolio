@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Welcome to G-nyang's Portfolio"
 ---
 
@@ -27,3 +27,4 @@ My long-term goal is to become a **digital nomad** who combines technology and f
 
 📫 **Contact**  
 [GitHub](https://github.com/g-nyang)
+
