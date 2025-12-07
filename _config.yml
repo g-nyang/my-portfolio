@@ -1,5 +1,9 @@
 title: "G-nyang's Portfolio"
 description: "Data Analysis · Hiking · Freediving · Digital Nomad"
+theme: jekyll-theme-chirpy
+lang: ko
+timezone: Asia/Seoul
 author: G-nyang
 markdown: kramdown
+
 
