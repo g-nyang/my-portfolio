@@ -4,4 +4,4 @@ https://g-nyang.github.io/my-portfolio/
 
 
 ---
-<small>This project is a clone of the original repository: [@varadbhogayata/varadbhogayata.github.io]
+<small>This project is a clone of the original repository: [https://github.com/varadbhogayata/varadbhogayata.github.io]</small>
